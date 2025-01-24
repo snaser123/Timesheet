@@ -20,8 +20,7 @@ public class Person implements Serializable {
     @Column(name = "name")
     String name;
     
-    @Column(name = "name1")
-    String name1;
+    
 
     @Column(name = "salary")
     Long salary;
